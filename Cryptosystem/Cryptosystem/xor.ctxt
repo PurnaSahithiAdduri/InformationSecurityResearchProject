@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=xor
+comment1.params=pt\ k
+comment1.target=java.lang.String\ xor2(java.lang.String,\ java.lang.String)
+numComments=2

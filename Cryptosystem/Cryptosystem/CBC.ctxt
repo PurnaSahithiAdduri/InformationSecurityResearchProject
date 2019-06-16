@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=CBC
+comment1.params=pt\ IV\ key
+comment1.target=java.lang.String\ generate(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2

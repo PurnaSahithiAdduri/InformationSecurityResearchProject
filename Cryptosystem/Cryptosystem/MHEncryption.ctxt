@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MHEncryption
+comment1.params=
+comment1.target=void\ initialize()
+comment2.params=
+comment2.target=void\ generatep()
+comment3.params=b
+comment3.target=int\ generateM(java.lang.String)
+comment4.params=op1
+comment4.target=java.lang.String\ Cipher(java.lang.String)
+numComments=5

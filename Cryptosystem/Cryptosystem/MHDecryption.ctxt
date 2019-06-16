@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MHDecryption
+comment1.params=mh
+comment1.target=java.lang.String\ MHTemppt(int)
+comment2.params=
+comment2.target=void\ extreme()
+comment3.params=m1
+comment3.target=void\ check(int)
+comment4.params=
+comment4.target=void\ decrypt()
+numComments=5

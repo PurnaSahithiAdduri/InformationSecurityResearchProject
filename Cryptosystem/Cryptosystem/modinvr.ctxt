@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=modinvr
+comment1.params=a\ m
+comment1.target=int\ modInverse(int,\ int)
+numComments=2
